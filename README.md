@@ -1,6 +1,6 @@
-# My Next.js App
+# Next.js App
 
-Welcome to My Next.js App! This project is built with [Next.js](https://nextjs.org/) and it is bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Additionally, it includes database integration and follows a structured organization to help you get started quickly.
+Welcome to Next.js App! This project is built with [Next.js](https://nextjs.org/) and it is bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Additionally, it includes database integration and follows a structured organization to help you get started quickly.
 
 ## Project Structure
 
@@ -49,6 +49,12 @@ $ npm run dev
 
 ### The application will run on that port
 ```http://localhost:3000```
+
+### Testing user info:
+```
+username: user1
+password: password1
+```
 
 ### Testing
 Execute the following command to run tests:
